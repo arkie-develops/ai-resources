@@ -1,0 +1,2 @@
+- [Towards Data Science](https://towardsdatascience.com/) - Community-driven publication focusing on data science and machine learning
+- [The Implications](https://www.implications.com/) - Newsletter exploring the societal impacts of AI and technology

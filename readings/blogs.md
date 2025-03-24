@@ -1,0 +1,7 @@
+- [The Soft Side of AI](https://medium.com/@arkie.preketes/the-soft-side-of-ai-8ea22520d74b) - A perspective on the human aspects of AI development
+- [Why Curiosity Revived the Cat: Generalists vs Specialists in the Age of Generative AI](https://medium.com/@arkie.preketes/why-curiosity-revived-the-cat-generalists-vs-specialists-in-the-age-of-generative-ai-2c30947b2601) - Analysis of career paths in the AI era
+- [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML systems design and engineering insights
+- [William Brown's Blog](https://willcb.com/blog/) - Technical deep dives and AI research discussions
+- [Lilian Weng's Blog](https://lilianweng.github.io/) - In-depth explanations of ML concepts and research
+- [Tim Dettmers' Blog](https://timdettmers.com/) - Deep learning optimization and hardware insights
+- [Sebastian Raschka's Magazine](https://magazine.sebastianraschka.com/) - ML education and cutting-edge research analysis

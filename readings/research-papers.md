@@ -1,0 +1,3 @@
+- [Deep Seek RL Paper](https://arxiv.org/pdf/2501.12948)
+- [Using LLMs for recommendation systems](https://arxiv.org/abs/2305.19860)
+- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) - The original Transformer architecture paper that revolutionized NLP
