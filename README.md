@@ -5,7 +5,7 @@ Welcome to the repository that houses all of the resources associated with the [
 ## Overview
 
 This repository is a one-stop hub for everything related to generative AI upskilling. Here you'll discover:
-- **Tutorials & Guides:** Step-by-step content covering everything from the fundamentals to advanced topics.
+- **Tutorials & Guides:** Step-by-step content covering the fundamentals of starting in generative AI
 - **Code Samples:** Practical examples and demo projects that illustrate key generative AI concepts and techniques.
 - **Articles & Case Studies:** Deep dives into the latest trends, best practices, and innovative projects in generative AI.
 - **Tool & Library Recommendations:** Curated lists of tools, frameworks, and libraries essential for any generative AI enthusiast.
@@ -13,8 +13,8 @@ This repository is a one-stop hub for everything related to generative AI upskil
 ## What's Inside
 
 - **/tutorials**: In-depth written guides.
-- **/code-samples**: Starting code for projects.
-- **/articles**: Research articles, blog posts, and white papers on generative AI.
+- **/project-examples**: Starting code for projects.
+- **/readings**: Research articles, blog posts, and white papers on generative AI.
 - **/resources**: Links to external resources, libraries, and essential reading.
 
 Each folder is designed to be as approachable or as deep as you need, whether you're starting out or fine-tuning your skills.
