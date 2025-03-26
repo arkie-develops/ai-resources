@@ -1,0 +1,3 @@
+- [MCP Server aggregator](https://smithery.ai)
+- [GenAI Agents GitHub Repository](https://github.com/NirDiamant/GenAI_Agents)
+- [There's An AI For That](https://theresanaiforthat.com/)
